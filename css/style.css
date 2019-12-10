@@ -28,7 +28,7 @@ body{
  	padding: 10px; float: right;
  	background-color: green;
  }
- class.clr{ clear: both; }
- footer.k5{
+ .clr{ clear: both; }
+ footer#k5{
  	background-color: #252525;
  }
